@@ -3,7 +3,7 @@ import csv
 from datetime import datetime, timedelta
 from prefect import flow, task
 
-API_KEY = "QCPKyEEU7U0D0he2zMFWvRQwsD2Cxf0kl3JVVaau"
+API_KEY = "Registrate en https://api.nasa.gov/ y óbten tu API KEY gratis!"
 
 @task
 def obtener_asteroides():
